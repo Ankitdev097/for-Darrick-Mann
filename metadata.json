@@ -1,0 +1,6 @@
+{
+  "name": "Darrick Mann - Custom AI Receptionist",
+  "description": "A customized AI Receptionist workflow for Darrick Mann, West TN Realtor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
